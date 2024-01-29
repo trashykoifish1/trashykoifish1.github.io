@@ -2150,8 +2150,8 @@ input, select, textarea {
 	}
 
 		#footer a {
-			color: #ddd;
-			color: rgba(255, 255, 255, 0.65);
+			color: black;
+			color: black;
 			-moz-transition: color .25s ease-in-out;
 			-webkit-transition: color .25s ease-in-out;
 			-ms-transition: color .25s ease-in-out;
@@ -2159,7 +2159,7 @@ input, select, textarea {
 		}
 
 			#footer a:hover {
-				color: white;
+				color: rgb(20, 9, 173);
 			}
 
 		#footer .copyright {
@@ -2171,7 +2171,7 @@ input, select, textarea {
 				display: inline-block;
 				padding-left: 1em;
 				margin-left: 1em;
-				border-left: solid 1px rgba(255, 255, 255, 0.25);
+				border-left: solid 1px black;
 				line-height: 1;
 			}
 
